@@ -1,0 +1,17 @@
+
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pid
+
+venv/
+.env
+
+
+**/migrations/*.py
+!**/migrations/__init__.py
+
+
+.DS_Store
+
